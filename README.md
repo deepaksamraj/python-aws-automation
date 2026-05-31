@@ -122,7 +122,7 @@ python-aws-automation/
 
 ## 📸 Screenshots
 
-> _Add screenshots or GIFs of the scripts in action here to showcase functionality._
+> _To be updated_
 
 ---
 
@@ -153,4 +153,4 @@ Contributions, issues, and feature requests are welcome! Feel free to open a PR 
 
 ---
 
-> Built with ☕ and ☁️ by [Your Name]
+> Built with ☕ and ☁️ by Deepak
